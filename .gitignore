@@ -1,0 +1,47 @@
+# -------------------------------------
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------------------
+# PyCharm project files
+.idea/
+
+# -------------------------------------
+# Virtual environments (Windows-style and Unix-style)
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# -------------------------------------
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# -------------------------------------
+# Test / coverage / cache
+.tox/
+.nox/
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# -------------------------------------
+# Jupyter/IPython
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# -------------------------------------
+# Plots
+**/*[Pp]lots*/

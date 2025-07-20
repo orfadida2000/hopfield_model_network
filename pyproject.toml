@@ -1,0 +1,11 @@
+[project]
+name = "hopfield-model-project"
+version = "0.1.0"
+requires-python = ">=3.12"
+authors = [
+    { name = "Or Fadida", email = "orfadida@mail.tau.ac.il" }
+]
+description = "Hopfield network for learning and simulation"
+license = { text = "MIT" }
+readme = "README.md"
+keywords = ["hopfield", "neural networks", "associative memory", "pattern recognition", "energy-based models"]

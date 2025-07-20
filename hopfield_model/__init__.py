@@ -1,0 +1,2 @@
+DEBUG_MODE = False
+SAVING_MODE = False
